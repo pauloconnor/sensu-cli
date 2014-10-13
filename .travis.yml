@@ -1,8 +1,0 @@
-language: ruby
-fast_finish: true
-rvm:
-  - 1.9.3
-  - 2.0.0
-script: bundle exec rspec spec
-notifications:
-  email: false
